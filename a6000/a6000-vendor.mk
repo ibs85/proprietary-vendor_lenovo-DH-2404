@@ -38,8 +38,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/a6000/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/lenovo/a6000/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/lenovo/a6000/proprietary/vendor/bin/vm_bms:system/vendor/bin/vm_bms \
-    vendor/lenovo/a6000/proprietary/vendor/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
-    vendor/lenovo/a6000/proprietary/vendor/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/lenovo/a6000/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
+    vendor/lenovo/a6000/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
     vendor/lenovo/a6000/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lenovo/a6000/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/lenovo/a6000/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
